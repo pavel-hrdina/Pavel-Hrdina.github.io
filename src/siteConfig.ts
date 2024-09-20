@@ -5,11 +5,10 @@ import type {
 } from "@/types.ts";
 
 export const SITE: SiteConfiguration = {
-  title: "Barebones",
-  description:
-    "A barebones starter theme. Built with Astro, Tailwind CSS, and Markdown.",
+  title: "Pavel Hrdina Portfolio",
+  description: "The personal portfolio of Pavel Hrdina.",
   url: "https://barebones.superwebthemes.com",
-  author: "SuperWeb Themes",
+  author: "Pavel Hrdina",
   locale: "en-US",
 };
 
@@ -17,10 +16,6 @@ export const NAV_LINKS: NavigationLinks = {
   about: {
     path: "/about",
     label: "About",
-  },
-  blog: {
-    path: "/blog",
-    label: "Blog",
   },
   projects: {
     path: "/projects",
@@ -38,19 +33,11 @@ export const NAV_LINKS: NavigationLinks = {
 
 export const SOCIAL_LINKS: SocialLinks = {
   email: {
-    label: "Email",
-    url: "mailto:support@superwebthemes.com",
+    label: "My Email",
+    url: "mailto:pavelhrdina0411@gmail.com",
   },
   github: {
     label: "GitHub",
-    url: "https://github.com/superwebthemes",
-  },
-  discord: {
-    label: "Discord",
-    url: "https://discord.gg/V5MCBCsAjJ",
-  },
-  twitter: {
-    label: "Twitter",
-    url: "https://twitter.com/superwebthemes",
+    url: "https://github.com/Pavel-Hrdina",
   },
 };
