@@ -18,6 +18,13 @@
     background-color: light-dark(
       rgb(var(--light-mode-background)),
       rgb(var(--dark-mode-background))
-    );
+    );    
   }
+}
+
+.rubik-var {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
