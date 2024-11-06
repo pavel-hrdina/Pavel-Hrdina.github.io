@@ -39,4 +39,5 @@ export const SOCIAL_LINKS: SocialLinks = {
   linkedin: {
     label: "Linkedin",
     url: "https://www.linkedin.com/in/pavel-hrdina-182030330/",
+  },
 };
