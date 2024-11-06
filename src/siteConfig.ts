@@ -7,7 +7,7 @@ import type {
 export const SITE: SiteConfiguration = {
   title: "Pavel Hrdina Portfolio",
   description: "The personal portfolio of Pavel Hrdina.",
-  url: "https://barebones.superwebthemes.com",
+  url: "https://pavel-hrdina.github.io/contact/",
   author: "Pavel Hrdina",
   locale: "en-US",
 };
